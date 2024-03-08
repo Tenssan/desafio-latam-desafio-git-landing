@@ -1,3 +1,8 @@
+body {
+    font-family: "Cabin", sans-serif;
+    height: 100vh;
+}
+
 #carouselExample {
     width: 100%;
 }
@@ -5,4 +10,8 @@
 footer a {
     flex-direction: row;
     justify-self: right;
+}
+
+i {
+    font-size: 32px;
 }
